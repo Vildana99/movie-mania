@@ -1,8 +1,9 @@
 # MovieMania
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Vildana99/movie-mania)
-![GitHub repo size](https://img.shields.io/github/repo-size/Vildana99/movie-mania)
-![License](https://img.shields.io/github/license/Vildana99/movie-mania)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-11-green?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Android%20Jetpack-blue?style=for-the-badge&logo=android)
+![API](https://img.shields.io/badge/API-TMDB-blue?style=for-the-badge&logo=themoviedatabase)
 
 ## About
 
